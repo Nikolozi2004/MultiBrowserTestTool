@@ -1,0 +1,2 @@
+To run safari or any other browser configure package.json scripts
+then type npm run test:test exmpl(test:safari)
